@@ -1,5 +1,13 @@
-# 💫 About Me:
-I’m a Data Scientist with a strong focus on Business Analytics and Data Visualization, passionate about converting raw data into meaningful insights that support smarter business decisions.<br><br>I work extensively with Python, SQL, Power BI, and Excel to perform data cleaning, exploratory analysis, KPI tracking, and dashboard creation. My approach is always business-first — understanding the problem, identifying the right metrics, and presenting insights in a clear and actionable way.<br><br>Alongside data science, I have a secondary interest in web technologies, which helps me deliver insights through interactive and visually engaging data experiences, including an experimental 3D web project built using TypeScript.<br><br>I enjoy building real-world projects, improving data storytelling, and continuously learning to grow as a data-driven problem solver.
+# 💫 About Me
+
+I’m a **Data Scientist with a strong focus on Business Analytics and Data Visualization**, passionate about transforming raw data into **actionable insights that drive smarter business decisions**.
+
+I work primarily with **Python, SQL, Power BI, and Excel** to perform data cleaning, exploratory data analysis (EDA), KPI tracking, and dashboard development. My approach is always **business-first** — understanding the problem, selecting the right metrics, and communicating insights clearly to support decision-making.
+
+In addition to data science, I have a **secondary interest in web technologies**, which allows me to present insights through **interactive and visually engaging data experiences**, including an experimental **3D web project built using TypeScript**.
+
+I enjoy building real-world projects, improving data storytelling, and continuously learning to grow as a **data-driven problem solver**.
+
 
 
 # 💻 Tech Stack:
