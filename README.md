@@ -72,7 +72,7 @@ Here are some highlights of my work – real-world applications showcasing data 
   Developed a scikit-learn model to predict customer churn, achieving 85% accuracy. Included EDA with Pandas and visualizations in Matplotlib.  
   *Tech: Python, Pandas, scikit-learn, Matplotlib*
 
-*(Replace with your actual project links and descriptions. Add more if you have them!)*
+
 
 ---
 
