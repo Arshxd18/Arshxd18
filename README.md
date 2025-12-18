@@ -1,4 +1,4 @@
-# About Me 💫
+# About Me 
 
 I’m a **Data Scientist with a strong focus on Business Analytics and Data Visualization**, passionate about transforming raw data into **actionable insights that drive smarter business decisions**.
 
@@ -10,9 +10,9 @@ I enjoy building real-world projects, improving data storytelling, and continuou
 
 
 
-# Tech Stack 💻 
+# Tech Stack  
 
-### 📊 Data Science & Analytics
+###  Data Science & Analytics
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
