@@ -1,5 +1,5 @@
 
-Welcome to my GitHub! I'm a **Data Scientist** passionate about turning data into **actionable business insights**. With expertise in Python, SQL, Power BI, and Excel, I specialize in data cleaning, EDA, KPI tracking, and interactive dashboards. My business-first approach ensures every project drives smarter decisions.
+Welcome to My GitHub! I'm a **Data Scientist** passionate about turning data into **actionable business insights**. With expertise in Python, SQL, Power BI, and Excel, I specialize in data cleaning, EDA, KPI tracking, and interactive dashboards. My business-first approach ensures every project drives smarter decisions.
 
 - 🔍 **Core Focus**: Transforming raw data into visualizations that tell compelling stories.
 - 🌟 **Secondary Passion**: Web tech for immersive data experiences (e.g., 3D projects with TypeScript).
