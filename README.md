@@ -78,9 +78,9 @@ Here are some highlights of my work – real-world applications showcasing data 
 
 ## 📞 Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Email**: your.email@example.com
-- **Portfolio/Website**: [Your Site](https://your-portfolio.com)
+- **LinkedIn**: [Visit My LinkedIn Profile](https://www.linkedin.com/in/mohamed-arshad-82b742281/)
+- **Email**: arshu752006@gmail.com
+- **Portfolio/Website**: [Visit My Portfolio !!!](https://mdarshad-portfolio.vercel.app/)
 - **Twitter/X**: [@YourHandle](https://twitter.com/your-handle)
 
 Feel free to reach out for collaborations, opportunities, or just to chat about data! 🚀
