@@ -78,11 +78,45 @@ Here are some highlights of my work – real-world applications showcasing data 
 
 ## 📞 Connect with Me
 
-- **LinkedIn**: [Visit My LinkedIn Profile](https://www.linkedin.com/in/mohamed-arshad-82b742281/)
-- **Email**: arshu752006@gmail.com
-- **Portfolio/Website**: [Visit My Portfolio !!!](https://mdarshad-portfolio.vercel.app/)
-- **Twitter/X**: [@YourHandle](https://twitter.com/your-handle)
-
-Feel free to reach out for collaborations, opportunities, or just to chat about data! 🚀
-
+<div align="center">
+  <p>Let's collaborate or chat about data-driven opportunities! Feel free to reach out via any of the channels below.</p>
+  
+  <table cellpadding="15" cellspacing="10">
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/mohamed-arshad-82b742281/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <br/>
+        <strong>Professional Network</strong>
+      </td>
+      <td align="center">
+        <a href="mailto:arshu752006@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+        <br/>
+        <strong>Direct Message</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://mdarshad-portfolio.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+        </a>
+        <br/>
+        <strong>View My Work</strong>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/your-handle" target="_blank">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter/X" />
+        </a>
+        <br/>
+        <strong>Follow for Updates</strong>
+      </td>
+    </tr>
+  </table>
+  
+  <p><em>Tip: Check out My portfolio for interactive demos and case studies!</em></p>
+  <p><em>Feel free to reach out for collaborations, opportunities, or just to chat about data! 🚀<em><p>
+</div>
 
