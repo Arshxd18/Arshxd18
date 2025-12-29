@@ -37,14 +37,11 @@ Welcome to My GitHub! I'm a **Data Scientist** passionate about turning data int
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Stats 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshxd18&show_icons=true&theme=dark" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=arshxd18&theme=dark" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshxd18&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arshxd18&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <br/> 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Arshxd18&theme=dark&hide_border=false" alt="GitHub Streak" /> <br/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshxd18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/> 
 </div>
 
 ---
