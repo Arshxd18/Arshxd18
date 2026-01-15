@@ -7,7 +7,7 @@ Welcome to My GitHub! I'm a **Data Scientist** passionate about turning data int
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Data Science & Analytics
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,7 +37,7 @@ Welcome to My GitHub! I'm a **Data Scientist** passionate about turning data int
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -58,15 +58,26 @@ Welcome to My GitHub! I'm a **Data Scientist** passionate about turning data int
 
 
 ---
-## 🏆 GitHub Trophies
+## GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arshxd18&theme=tokyonight&no-frame=true&row=1" />
-</div>
+**ShinyText:** *Consistent Contribution & Growth*  
+Demonstrates regular development activity across data science, analytics, and web-focused repositories, reflecting discipline and long-term commitment.
+
+**ShinyText:** *Impact-Oriented Engineering*  
+Builds projects with a strong emphasis on transforming data into actionable insights, aligning technical work with real business outcomes.
+
+**ShinyText:** *Balanced Technical Skillset*  
+Experienced in Python, SQL, Machine Learning, and data visualization, with additional exploration of modern web technologies for interactive and immersive experiences.
+
+**ShinyText:** *Code Quality & Reproducibility*  
+Maintains clean, well-structured, and documented repositories to ensure clarity, scalability, and ease of collaboration.
+
+_Complete activity history and contribution details are available directly on my GitHub profile._
+
 
 ---
 
-## 💼 Featured Projects
+##  Featured Projects
 
 Here are some highlights of my work – real-world applications showcasing data science in action:
 
@@ -86,7 +97,7 @@ Here are some highlights of my work – real-world applications showcasing data 
 
 ---
 
-## 📞 Connect with Me
+##  Connect with Me
 
 <div align="center">
   <p>Let's collaborate or chat about data-driven opportunities! Feel free to reach out via any of the channels below.</p>
