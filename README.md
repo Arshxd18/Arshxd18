@@ -60,20 +60,17 @@ Welcome to My GitHub! I'm a **Data Scientist** passionate about turning data int
 ---
 ## GitHub Achievements
 
-**ShinyText:** *Consistent Contribution & Growth*  
-Demonstrates regular development activity across data science, analytics, and web-focused repositories, reflecting discipline and long-term commitment.
+**✦ Consistent Contribution & Growth**  
+Regular development activity across data science, analytics, and web-focused repositories.
 
-**ShinyText:** *Impact-Oriented Engineering*  
-Builds projects with a strong emphasis on transforming data into actionable insights, aligning technical work with real business outcomes.
+**✦ Impact-Oriented Engineering**  
+Focus on converting raw data into actionable insights with measurable business value.
 
-**ShinyText:** *Balanced Technical Skillset*  
-Experienced in Python, SQL, Machine Learning, and data visualization, with additional exploration of modern web technologies for interactive and immersive experiences.
+**✦ Balanced Technical Skillset**  
+Strong foundation in Python, SQL, Machine Learning, and data visualization.
 
-**ShinyText:** *Code Quality & Reproducibility*  
-Maintains clean, well-structured, and documented repositories to ensure clarity, scalability, and ease of collaboration.
-
-_Complete activity history and contribution details are available directly on my GitHub profile._
-
+**✦ Code Quality & Reproducibility**  
+Emphasis on clean code, structured workflows, and clear documentation.
 
 ---
 
