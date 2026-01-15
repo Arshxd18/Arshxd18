@@ -37,18 +37,31 @@ Welcome to My GitHub! I'm a **Data Scientist** passionate about turning data int
 
 ---
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arshxd18&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <br/> 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Arshxd18&theme=dark&hide_border=false" alt="GitHub Streak" /> <br/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshxd18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/> 
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Arshxd18&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <br/>
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Arshxd18&theme=tokyonight&hide_border=true" />
+
+  <br/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshxd18&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
----
 
-## 🏆 Top Contributed Repos
+---
+## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Arshxd18&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Arshxd18&theme=tokyonight&no-frame=true&row=1" />
 </div>
 
 ---
